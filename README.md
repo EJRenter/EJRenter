@@ -2,7 +2,7 @@
 - 👀 I’m interested in making games!
 - 🌱 I’m currently learning Unity.
 - 💞️ I’m looking to collaborate on gamessss
-- 📫 How to reach me edwardj.renteria@gmai.com
+- 📫 How to reach me edwardj.renteria@gmaiL.com
 
 <!---
 EJRenter/EJRenter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
