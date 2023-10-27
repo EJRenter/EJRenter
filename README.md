@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EJRenter
-- 👀 I’m interested in making games!
+- 👀 I’m interested in making games and learning Unreal.
 - 🌱 I’m currently learning Unity.
 - 💞️ I’m looking to collaborate on gamessss
 - 📫 How to reach me edwardj.renteria@gmaiL.com
